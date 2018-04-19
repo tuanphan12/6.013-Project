@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Tuan Phan\Desktop\Spring 2018\6.013\Dickson_voltage_multiplier.asc
+
+.OP point found by inspection.
+
+Date: Thu Apr 19 11:15:01 2018
+Total elapsed time: 0.255 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 60392
+traniter = 60392
+tranpoints = 30197
+accept = 20337
+rejected = 9860
+matrix size = 12
+fillins = 0
+solver = Normal
+Matrix Compiler1: 518 bytes object code size  0.2/0.1/[0.0]
+Matrix Compiler2: off  [0.1]/0.2/0.1
+
+
